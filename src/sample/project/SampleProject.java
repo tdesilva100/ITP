@@ -18,10 +18,9 @@ public class SampleProject {
         // TODO code application logic here
         
         System.out.println("I HAVE CHANGED THE FILE");
-        System.out.println("This is nonsence");
-		System.out.println("Hate this");
-		System.out.println("This sucks!");
-		System.out.println("Hey");
+	System.out.println("Hey");
+	System.out.println("Edited in GitHub");
+	    
     }
     
 }
