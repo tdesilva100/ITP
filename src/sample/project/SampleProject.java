@@ -17,8 +17,7 @@ public class SampleProject {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("I HAVE CHANGED THE FILE");
-	System.out.println("Hey");
+       
 	System.out.println("Edited in GitHub");
 	System.out.println("Edited again!");
 	    
