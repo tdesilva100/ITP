@@ -21,6 +21,7 @@ public class SampleProject {
         System.out.println("This is nonsence");
 		System.out.println("Hate this");
 		System.out.println("This sucks!");
+		System.out.println("Hey");
     }
     
 }
