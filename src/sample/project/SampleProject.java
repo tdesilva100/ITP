@@ -20,6 +20,7 @@ public class SampleProject {
         System.out.println("I HAVE CHANGED THE FILE");
 	System.out.println("Hey");
 	System.out.println("Edited in GitHub");
+	System.out.println("Edited again!");
 	    
     }
     
